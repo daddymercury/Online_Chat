@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Problems__19_-Pets_and_boxes" external.linked.project.path="$MODULE_DIR$/../../../../Problems (19)/Pets and boxes" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Online_Chat" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Problems (19)/Pets and boxes">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (19)/Pets and boxes/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (19)/Pets and boxes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Problems (19)/Pets and boxes/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

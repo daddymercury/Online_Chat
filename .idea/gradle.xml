@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Online Chat/task" />
+            <option value="$PROJECT_DIR$/Problems (1)/Account Service" />
+            <option value="$PROJECT_DIR$/Problems (10)/Blacklist" />
+            <option value="$PROJECT_DIR$/Problems (11)/Count the value occurrences" />
+            <option value="$PROJECT_DIR$/Problems (12)/Companies" />
+            <option value="$PROJECT_DIR$/Problems (13)/Split a list into sublists" />
+            <option value="$PROJECT_DIR$/Problems (14)/Filtering the list" />
+            <option value="$PROJECT_DIR$/Problems (15)/Multiple swaps" />
+            <option value="$PROJECT_DIR$/Problems (16)/The first index of a sublist" />
+            <option value="$PROJECT_DIR$/Problems (17)/Output elements" />
+            <option value="$PROJECT_DIR$/Problems (18)/Strict superset" />
+            <option value="$PROJECT_DIR$/Problems (19)/Pets and boxes" />
+            <option value="$PROJECT_DIR$/Problems (2)/Account Service" />
+            <option value="$PROJECT_DIR$/Problems (20)/Writing a class" />
+            <option value="$PROJECT_DIR$/Problems (21)/Pets and boxes" />
+            <option value="$PROJECT_DIR$/Problems (3)/Shape hierarchy" />
+            <option value="$PROJECT_DIR$/Problems (4)/Account Service" />
+            <option value="$PROJECT_DIR$/Problems (5)/A long process" />
+            <option value="$PROJECT_DIR$/Problems (6)/Boxes are not just objects!" />
+            <option value="$PROJECT_DIR$/Problems (7)/Compact strings with AsciiCharSequence" />
+            <option value="$PROJECT_DIR$/Problems (8)/Find the nearest number" />
+            <option value="$PROJECT_DIR$/Problems (9)/Squares list" />
+            <option value="$PROJECT_DIR$/Problems/Account Service" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
