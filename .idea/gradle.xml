@@ -5,6 +5,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
@@ -25,6 +26,7 @@
             <option value="$PROJECT_DIR$/Problems (2)/Account Service" />
             <option value="$PROJECT_DIR$/Problems (20)/Writing a class" />
             <option value="$PROJECT_DIR$/Problems (21)/Pets and boxes" />
+            <option value="$PROJECT_DIR$/Problems (22)/String to double conversion" />
             <option value="$PROJECT_DIR$/Problems (3)/Shape hierarchy" />
             <option value="$PROJECT_DIR$/Problems (4)/Account Service" />
             <option value="$PROJECT_DIR$/Problems (5)/A long process" />
